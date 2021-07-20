@@ -1,0 +1,6 @@
+campo_buscar: input[id="twotabsearchtextbox"]
+botao_buscar: "#nav-search-submit-button"
+item_listado: span[class="a-size-base-plus a-color-base a-text-normal"]
+botao_add_carrinho: input[id="add-to-cart-button"]
+
+
